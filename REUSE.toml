@@ -1,0 +1,11 @@
+version = 1
+SPDX-PackageName = "ZMAYCHALLENGE_892851"
+SPDX-PackageSupplier = "fahadburney112@gmail.com"  
+SPDX-PackageDownloadLocation = "https://github.com/mdFahadBurney/ABAP-Extensibility-Challenge.git"  
+SPDX-PackageComment = "This project is part of the SAP ABAP Escape House May 2025 Challenge. It may contain calls to SAP APIs and is based on the original challenge repository from SAP: https://github.com/sap-samples/sap-community-abap-developer-challenge."
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2025 Fahad and contributors to abap-escape-house-may-challenge"
+SPDX-License-Identifier = "Apache-2.0"
