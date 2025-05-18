@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "ZMAYCHALLENGE_892851"
+SPDX-PackageSupplier = "Mohammad Fahad Burney <mohammadfahadburney@outlook.com>"
+SPDX-PackageDownloadLocation = "https://github.com/mdFahadBurney/ABAP-Extensibility-Challenge.git"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Mohammad Fahad Burney"
+SPDX-License-Identifier = "Apache-2.0"
