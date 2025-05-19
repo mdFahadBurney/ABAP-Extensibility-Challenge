@@ -3,7 +3,7 @@
 @Metadata.ignorePropagatedAnnotations: true
 @AbapCatalog.extensibility: {
   extensible: true,
-  elementSuffix: 'ZMF',
+  elementSuffix: 'ZAF',
   quota: {
     maximumFields: 500,
     maximumBytes: 5000

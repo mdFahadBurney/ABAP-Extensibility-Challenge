@@ -12,7 +12,8 @@ ENDCLASS.
 
 
 
-CLASS ztravel_fill_data_892851 IMPLEMENTATION.
+CLASS ZTRAVEL_FILL_DATA_892851 IMPLEMENTATION.
+
 
   METHOD if_oo_adt_classrun~main.
      INSERT ztravel_892851 FROM ( SELECT FROM /dmo/travel FIELDS
